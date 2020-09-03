@@ -3,7 +3,7 @@
 I'm a Software Engineer from Jamaica 🇯🇲 in love with React and Node. I currently work on payment gateways stuff for tumblr and wordpress.com.
 Before working at [Automattic](https://automattic.com/), I was a startup founder working on creating risk models utilizing alternative data to underwrite loans to US importers.
 
-If I'm not coding, I'm likely running, gyming hanging out with friends or on a beach somewhere.
+If I'm not coding, I'm likely running, gyming, hanging out with friends or on a beach somewhere.
 
 
 <!--
