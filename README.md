@@ -1,6 +1,6 @@
 ### Hey, I'm Romario 👋
 
-I'm a Software Engineer from Jamaica 🇯🇲 working on solutions to empower others. I currently work on payment gateways stuff for Tumblr and wordpress.com.
+I'm a Software Engineer from Jamaica 🇯🇲 working on solutions to empower others. I currently work on payment gateways stuff for Tumblr and WordPress.com.
 Before working at [Automattic](https://automattic.com/), I was a startup founder working on creating risk models utilizing alternative data to underwrite loans to US importers.
 
 If I'm not coding, I'm likely swimming, running, gyming, hanging out with friends or on a beach somewhere.
