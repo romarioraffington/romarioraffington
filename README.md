@@ -17,8 +17,8 @@
 
 ## 😜 Fun facts
 
-- 🏝️ I'm a Software Engineer from Jamaica 🇯🇲
-- 🧾 I currently work on WordPress.com Earn products and Tumblr's payment infrastructure at [Automattic](https://automattic.com/) 
+- 🏝️ I'm a Senior Software Engineer at [Automattic](https://automattic.com/) 
+- 🧾 I currently work on WordPress.com Earn products and Tumblr's payment infrastructure
 - 🚢 Previously, I was a startup founder working on creating risk models to underwrite loans to US importers.
 
 ## 💌 Get in touch
