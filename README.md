@@ -1,11 +1,11 @@
 # 👋  Hi, I am Romario
-<!-- 
+
 <table>
   <tr>
     <td width="10%"></td>
     <td width="80%">
       <a href="#">
-        <img src="https://lexica.art/prompt/27afd1d3-98a4-43ff-a5ad-38195f39ac48" style="min-width: 100%">
+        <img src="./img.jpg" style="min-width: 100%">
       </a>
     </td>
     <td width="10%"></td>
@@ -13,7 +13,7 @@
 </table>
 <em>
  Generated on: <a href="https://lexica.art/">Lexica.art</a>
-</em> -->
+</em>
 
 - 🏝️ I'm a Software Engineer from Jamaica 🇯🇲
 - 🧾 I currently work on WordPress.com Earn products and Tumblr's payment infrastructure at [Automattic](https://automattic.com/) 
