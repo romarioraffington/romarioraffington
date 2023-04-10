@@ -1,9 +1,34 @@
-### Hey, I'm Romario 👋
+# 👋  Hi, I am Romario
+<!-- 
+<table>
+  <tr>
+    <td width="10%"></td>
+    <td width="80%">
+      <a href="#">
+        <img src="https://lexica.art/prompt/27afd1d3-98a4-43ff-a5ad-38195f39ac48" style="min-width: 100%">
+      </a>
+    </td>
+    <td width="10%"></td>
+  </tr>
+</table>
+<em>
+ Generated on: <a href="https://lexica.art/">Lexica.art</a>
+</em> -->
 
-I'm a Software Engineer from Jamaica 🇯🇲 working on solutions to empower others. I currently work on payment gateways stuff for Tumblr and WordPress.com.
-Before working at [Automattic](https://automattic.com/), I was a startup founder working on creating risk models utilizing alternative data to underwrite loans to US importers.
+- 🏝️ I'm a Software Engineer from Jamaica 🇯🇲
+- 🧾 I currently work on WordPress.com Earn products and Tumblr's payment infrastructure at [Automattic](https://automattic.com/) 
+- 🚢 Previously, I was a startup founder working on creating risk models to underwrite loans to US importers.
 
-If I'm not coding, I'm likely swimming, running, gyming, hanging out with friends or on a beach somewhere.
+## 💌 Get in touch
+
+- Email: romarioraff@gmail.com
+- Linkedin: https://www.linkedin.com/in/romarioraffington/
+
+## Misc.
+[![Romario's GitHub Stats](https://github-readme-stats.vercel.app/api?username=romarioraffington&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/romarioraffington)
+
+
+Most of my work for Tumblr and WordPress.com may not be reflected on Github
 
 
 <!--
