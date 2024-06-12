@@ -18,7 +18,7 @@
 ## 😜 Fun facts
 
 - 👨🏾‍💻 I'm a Senior Software Engineer at [Automattic](https://automattic.com/) 
-- 🧾 I currently work on WordPress.com Earn products and Tumblr's payment infrastructure
+- 🧾 I currently work on maintaining the infrastructure and user flows to support Billing and Payments for our first-party products on WordPress.com, Jetpack, Crowdsignal, Akismet, and Tumblr.
 - 🚢 Previously, I was a startup founder working on creating risk models to underwrite loans to US importers.
 
 ## 💌 Get in touch
