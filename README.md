@@ -15,17 +15,6 @@
  Generated on: <a href="https://lexica.art/">Lexica.art</a>
 </em>
 
-## 😜 Fun facts
-
-- 👨🏾‍💻 I'm a Senior Software Engineer at [Automattic](https://automattic.com/) 
-- 🧾 I currently work on maintaining the infrastructure and user flows to support Billing and Payments for our first-party products on WordPress.com, Jetpack, Crowdsignal, Akismet, and Tumblr.
-- 🚢 Previously, I was a startup founder working on creating risk models to underwrite loans to US importers.
-
-## 💌 Get in touch
-
-- Email: romarioraff@gmail.com
-- Linkedin: https://www.linkedin.com/in/romarioraffington/
-
 ## Misc.
 [![Romario's GitHub Stats](https://github-readme-stats.vercel.app/api?username=romarioraffington&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/romarioraffington)
 
