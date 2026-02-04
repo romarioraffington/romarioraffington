@@ -15,9 +15,6 @@
  Generated on: <a href="https://lexica.art/">Lexica.art</a>
 </em>
 
-## Misc.
-[![Romario's GitHub Stats](https://github-readme-stats.vercel.app/api?username=romarioraffington&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/romarioraffington)
-
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romarioraffington)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
